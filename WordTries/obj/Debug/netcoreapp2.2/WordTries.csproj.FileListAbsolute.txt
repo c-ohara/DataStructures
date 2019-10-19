@@ -1,0 +1,11 @@
+C:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\bin\Debug\netcoreapp2.2\WordTries.deps.json
+C:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\bin\Debug\netcoreapp2.2\WordTries.runtimeconfig.json
+C:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\bin\Debug\netcoreapp2.2\WordTries.runtimeconfig.dev.json
+c:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\bin\Debug\netcoreapp2.2\WordTries.dll
+c:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\bin\Debug\netcoreapp2.2\WordTries.pdb
+c:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\obj\Debug\netcoreapp2.2\WordTries.csprojAssemblyReference.cache
+c:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\obj\Debug\netcoreapp2.2\WordTries.csproj.CoreCompileInputs.cache
+c:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\obj\Debug\netcoreapp2.2\WordTries.AssemblyInfoInputs.cache
+c:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\obj\Debug\netcoreapp2.2\WordTries.AssemblyInfo.cs
+c:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\obj\Debug\netcoreapp2.2\WordTries.dll
+c:\Users\charl\Desktop\coding_dojo\C#\OOP\WordTries\obj\Debug\netcoreapp2.2\WordTries.pdb
